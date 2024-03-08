@@ -18,6 +18,7 @@
 	<div class="card_musica__footer">
 		<p>{durata}</p>
 		<p>{anno}</p>
+		saSAs
 	</div>
 </div>
 
